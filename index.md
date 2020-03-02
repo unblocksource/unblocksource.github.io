@@ -1,30 +1,13 @@
 ## UnblockSource - Official up/down - Verified Proxies
 
-You can use the [editor on GitHub](https://github.com/unblocksource/unblocksource.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Unblock your favourite sites such as The Pirate Bay, 1337x, Putlocker, etc with UnblockSource proxy mirrors.
+Your ISP blocked unblocksource.com? Use one of the mirror below for full access!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
